@@ -1,2 +1,2 @@
 # Locks
-Distribute Locks
+Distributed Locks
